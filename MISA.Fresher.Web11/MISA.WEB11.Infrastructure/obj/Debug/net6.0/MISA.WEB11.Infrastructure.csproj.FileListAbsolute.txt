@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\MISA.WEB11.Infrastructure.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\MISA.WEB11.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\ref\MISA.WEB11.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\MISA.WEB11.Infrastructure.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\MISA.WEB11.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\bin\Debug\net6.0\MISA.WEB11.Core.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\ref\MISA.WEB11.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Fresher_11\BE\API\MISA_FRESHER_WEB11\MISA.Fresher.Web11\MISA.WEB11.Infrastructure\obj\Debug\net6.0\MISA.WEB11.Infrastructure.pdb

@@ -280,11 +280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\MISA.Fresher.Web11.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA_FRESHER_WEB11\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\MISA.Fresher.Web11.csproj",
       "projectName": "MISA.Fresher.Web11",
-      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\MISA.Fresher.Web11.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA_FRESHER_WEB11\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\MISA.Fresher.Web11.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Fresher_11\\BE\\API\\MISA_FRESHER_WEB11\\MISA.Fresher.Web11\\MISA.Fresher.Web11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

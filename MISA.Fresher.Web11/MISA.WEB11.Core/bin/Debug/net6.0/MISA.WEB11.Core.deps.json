@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MISA.WEB11.Core/1.0.0": {
+        "runtime": {
+          "MISA.WEB11.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.WEB11.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
